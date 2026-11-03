@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://besh-tash.korkom.org/sitemap.xml
